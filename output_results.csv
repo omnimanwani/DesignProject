@@ -1,0 +1,88 @@
+message_id,conversation_id,text,time_offset,intent,intent_confidence,director,writer,cast,genre,year,movie_name,referenced_movies
+204171,20001,Hi I am looking for a movie like @111776,0,recommend,0.4209223687648773,[],[],,"['Comedy', 'Crime', 'Mystery']",2001,Super Troopers,"[""Super Troopers (2001)""]"
+204173,20001,Is that a great one? I have never seen it. I have seen @192131,90,recommend,0.2570163309574127,[],[],,"['Comedy', 'Romance']",,,"[""American Pie ""]"
+204174,20001,I mean @134643,122,query,0.19595475494861603,[],[],,"['Comedy', 'Romance']",1999,American Pie,"[""American Pie  (1999)""]"
+204176,20001,It sounds like I need to check them out,199,recommend,0.3084578812122345,[],[],,[],,,[]
+204178,20001,I appreciate your time. I will need to check those out. Are there any others you would recommend?,253,recommend,0.3114721477031708,[],[],,[],,,[]
+204180,20001,Thank you i will watch that too,311,recommend,0.2879076302051544,[],[],,[],,,[]
+204182,20001,Thanks for the suggestions.,326,recommend,0.2722710371017456,[],[],,[],,,[]
+204185,20001,thanks goodbye,518,chit-chat,0.13375462591648102,[],[],,[],,,[]
+204188,20041,Hello!,8,chit-chat,0.2063143253326416,[],[],,[],,,[]
+204190,20041,I am looking for a movie recommendation.   When I was younger I really enjoyed the @77161,60,recommend,0.4634946882724762,[],[],,['Horror'],1984,A Nightmare on Elm Street,"[""A Nightmare on Elm Street (1984)""]"
+204193,20041,I also enjoyed watching @132562,101,chit-chat,0.2925577461719513,[],[],,"['Crime', 'Thriller', 'Horror', 'Drama']",1972,The Last House on the Left,"[""The Last House on the Left  (1972)""]"
+204195,20041,I do enjoy some of the newer horror movies that I have seen as well.,141,chit-chat,0.38884249329566956,[],[],,['Horror'],,,[]
+204197,20041,I really liked the movie @125431,168,recommend,0.3837603032588959,[],[],,['Horror'],2014,Annabelle,"[""Annabelle  (2014)""]"
+204200,20041,"Or @118338 I saw while in theaters, this was a very good movie.  It had me on the edge of my seat for the whole show.",245,recommend,0.3889901340007782,[],[],,"['Horror', 'Thriller', 'Mystery']",2016,The Forest,"[""The Forest  (2016)""]"
+204202,20041,Are there any comedies that you would suggest?,310,recommend,0.4492742121219635,[],[],,[],,,[]
+204204,20041,Wonderful! Thank you so much I think I am ready for movie night now.,410,chit-chat,0.34665536880493164,[],[],,[],,,[]
+204295,20054,I love to watch funny movies,2,chit-chat,0.48022815585136414,[],[],,[],,,[]
+204297,20054,"yes, i love adam sandler",19,chit-chat,0.23361943662166595,,['adam sandler'],,[],,,[]
+204301,20054,just watched the mask last night! there is a new one @195759,54,query,0.21647505462169647,[],[],,"['Fantasy', 'Comedy', 'Family', 'Adventure']","@195759,2005",Son of the Mask,"[""Son of the Mask (2005)""]"
+204302,20054,i like some scary movie,57,recommend,0.42637932300567627,[],[],,[],,,[]
+204306,20054,That one is the best! thanks for the help,95,recommend,0.2188476324081421,[],[],,[],,,[]
+204307,20054,goodbye!,97,chit-chat,0.19998478889465332,[],[],,[],,,[]
+204311,20055,"I like all movies, what are your suggestions?",8,recommend,0.6026851534843445,[],[],,[],,,[]
+204313,20055,No heard it is very good,23,query,0.17671865224838257,[],[],,[],,,[]
+204316,20055,I love Adam Sandler movies,44,recommend,0.35078808665275574,,['Adam Sandler'],,[],,,[]
+204320,20055,Sounds scary but will have to check it out!,71,recommend,0.33625102043151855,[],[],,[],,,[]
+204321,20055,These are great suggestions,78,recommend,0.2861790657043457,[],[],,[],,,[]
+204323,20055,Thank you!,82,chit-chat,0.10062864422798157,[],[],,[],,,[]
+204328,20055,Goodbye,94,chit-chat,0.17386941611766815,[],[],,[],,,[]
+1309,462,"Hey, could you suggest some movies for me? I like things that are true stories an comedy",32,recommend,0.5142067074775696,[],[],,['Comedy'],,,[]
+1310,462,stff like @78186,49,recommend,0.407480925321579,,,,['Comedy'],2000,Scary Movie,"[""Scary Movie (2000)""]"
+1311,462,not so much british humor like @173333,69,recommend,0.27490949630737305,[],[],,['british'],1975,Monty Python and the Holy Grail,"[""Monty Python and the Holy Grail (1975)""]"
+1313,462,"wow, i wonder how I never heard of this one. i think i would like it. thanks. do you have maybe one more suggestion?",186,recommend,0.26800233125686646,[],[],,[],,,[]
+1315,462,"Oh, i did love that one. Thanks for reminding me. I think i will go back and watch that again too.",291,recommend,0.2830369174480438,[],[],,[],,,[]
+1316,462,Thanks for your help! We are done then,306,recommend,-0.0006896046106703579,[],[],,[],,,[]
+1318,462,bye bye,323,chit-chat,0.10997385531663895,[],[],,[],,,[]
+1879,543,It's me. I'm Curtis by the way. :),12,chit-chat,0.16918440163135529,['Curtis'],['Curtis'],Curtis,[],,,[]
+1881,543,"So Alan, where were we? Sequels right? Since you didn't care much for @149519  I'm guessing you also hated @122278 ...",67,recommend,0.2618837356567383,['Alan'],['Alan'],,"['Science Fiction', 'Horror', 'Thriller']","2012,2017","Prometheus,Alien: Covenant","[""Prometheus  (2012)"", ""Alien: Covenant (2017)""]"
+1884,543,Think he's losing his touch?,106,query,0.060980167239904404,[],[],,[],,,[]
+1886,543,Yeah I agree. What he did with @148231 was sweet.,158,recommend,0.2518894374370575,[],[],,"['Adventure', 'Science Fiction']",1993,Jurassic Park,"[""Jurassic Park  (1993)""]"
+1888,543,With the animatronics?,203,query,0.19505183398723602,[],[],,[],,,[]
+1890,543,True. Looks like we've met our quota. Let's continue this conversation in a bit.,251,chit-chat,0.03853234648704529,[],[],,[],,,[]
+1527,482,hi i like musicals a lot! anything from @79278 to @93310,40,recommend,0.3409923315048218,,,,"['Comedy', 'Science Fiction', 'Fantasy', 'Horror']","1961,1975","West Side Story,The Rocky Horror Picture Show","[""West Side Story  (1961)"", ""The Rocky Horror Picture Show (1975)""]"
+1529,482,"I love them so much. very different, but still so good.",102,chit-chat,0.2254188507795334,[],[],,[],,,[]
+1530,482,Could you suggest something like that? Even if it just has a little music in it,120,recommend,0.2783012390136719,[],[],,['Music'],,,[]
+1532,482,"I did see that, but I wasn't as keen on it as most people. It felt like it was missng something",152,query,0.0550614595413208,[],[],,[],,,[]
+1534,482,"you know, I saw the original with Ricky Lake and never watched the reboot. I am sure I would like that.",262,recommend,0.2218330353498459,,,,[],,,[]
+1535,482,"that is a great suggestion, thank you",271,recommend,0.1723615527153015,[],[],,[],,,[]
+1537,482,"That is ok, i am sure I would really enjoy it. I love the songs and being done in present time can only make it better. thanks a lot",366,recommend,0.14260953664779663,[],[],,[],,,[]
+1539,482,bye!,390,chit-chat,0.14984695613384247,[],[],,[],,,[]
+1552,484,Hi can you help me find a comedy movie,0,recommend,0.4585416316986084,[],[],,['Comedy'],,,[]
+1555,484,lol it booted me sorry about that,32,query,0.05093787610530853,[],[],,[],,,[]
+1558,484,Yeah I saw those and loved them,89,recommend,0.2027616947889328,[],[],,[],,,[]
+1561,484,That sounds funny,155,recommend,0.12358764559030533,[],[],,[],,,[]
+1564,484,I really liked @190953,197,recommend,0.36529412865638733,[],[],,"['Fantasy', 'Comedy', 'Romance', 'Science Fiction']",2000,Nutty Professor II: The Klumps,"[""Nutty Professor II: The Klumps (2000)""]"
+1565,484,I think I have seen that one and liked it,214,recommend,0.2735833525657654,[],[],,[],,,[]
+1567,484,I think I will watch @91481,254,recommend,0.3407982885837555,[],[],,"['Action', 'Comedy', 'Crime']",1984,Beverly Hills Cop,"[""Beverly Hills Cop (1984)""]"
+1570,484,I have not heard of that one before,283,recommend,0.21972410380840302,[],[],,[],,,[]
+1572,484,I will check both of those out thanks for the help.,302,recommend,0.22734618186950684,[],[],,[],,,[]
+1573,484,bye,307,chit-chat,0.12684418261051178,[],[],,[],,,[]
+1575,485,Hi can you help me find a musical,0,recommend,0.24336475133895874,[],[],,['Music'],,,[]
+1578,485,I really like @127328 and @107350,60,recommend,0.36027824878692627,,,,"['Drama', 'Horror']",2007,"Hairspray,Sweeney Todd: The Demon Barber of Fleet Street","[""Hairspray  (2007)"", ""Sweeney Todd: The Demon Barber of Fleet Street  (2007)""]"
+1582,485,Yeah I have seen @145997 many times,145,chit-chat,0.1608426719903946,[],[],,"['Comedy', 'Crime', 'Drama']",2002,Chicago,"[""Chicago  (2002)""]"
+1584,485,I have not seen @124268 I think I may like that one,256,recommend,0.3786740005016327,[],[],,"['Comedy', 'Romance']",2008,Mamma Mia!,"[""Mamma Mia!  (2008)""]"
+1587,485,That is great that group does have some good music thanks for the help. Bye,307,recommend,0.13072550296783447,[],[],,['Music'],,,[]
+1590,487,Hi could you help me find a good scary movie? It could be a thriller or horror or even a drama that is scary,19,recommend,0.4835183620452881,[],[],,"['Drama', 'Horror', 'Thriller']",,,[]
+1591,487,I liked @170501 a lot and that was more drama,38,recommend,0.3791864812374115,[],[],,"['Thriller', 'Drama']",2002,Unfaithful,"[""Unfaithful  (2002)""]"
+1593,487,"Yes, one of my all time favorites. although I thought the remake without robert Englund was horrible! @119295",124,recommend,0.33152833580970764,['robert Englund'],,,['@119295'],2010,A Nightmare on Elm Street,"[""A Nightmare on Elm Street  (2010)""]"
+1595,487,"it is funny, i saw @134346 in the theater when I was younger, but never saw the original. I think that is a great suggestion",235,recommend,0.4352128505706787,[],[],,"['Horror', 'Thriller']",1995,Candyman: Farewell to the Flesh,"[""Candyman: Farewell to the Flesh (1995)""]"
+1596,487,I have to see that,239,chit-chat,0.13910061120986938,[],[],,[],,,[]
+1597,487,and dont waste your precious time on that nightmare remake!,259,recommend,0.299025297164917,[],[],,[],,,[]
+1599,487,"no, the classics are my favorite so I am happy with this. thank you. have a good wekeend!",317,chit-chat,0.2238621711730957,[],[],,[],,,[]
+1600,487,bye,318,chit-chat,0.12684418261051178,[],[],,[],,,[]
+3123,710,Hello!,6,chit-chat,0.2063143253326416,[],[],,[],,,[]
+3125,710,I like anything with aliens and/or superheros,26,recommend,0.3957601487636566,[],[],,[],,,[]
+3126,710,What about you?,31,chit-chat,0.21323196589946747,[],[],,[],,,[]
+3129,710,No! But my roommate watched it with her boyfriend and they said it was pretty good.,85,query,0.2860765755176544,[],[],,[],,,[]
+3132,710,I think I saw it when it first came out but I can't really remember.,119,query,0.33677709102630615,[],[],,[],,,[]
+3133,710,I have for sure seen @182781,139,recommend,0.3730035722255707,[],[],,"['Science Fiction', 'Drama']",1977,Close Encounters of the Third Kind,"[""Close Encounters of the Third Kind (1977)""]"
+3136,710,I haven't seen it but I will. My boyfriend really like those movies,168,recommend,0.37960147857666016,[],[],,[],,,[]
+3139,710,That I didn't know!,205,query,0.11831751465797424,[],[],,[],,,[]
+3140,710,How do you feel about horror movies?,218,chit-chat,0.3506665527820587,[],[],,['Horror'],,,[]
+3142,710,I don't like them but there is one called @147204,240,recommend,0.2367338389158249,[],[],,"['Comedy', 'Horror']",2014,Tusk,"[""Tusk  (2014)""]"
+3145,710,It's directed by Kevin Smith and it is amazing,257,recommend,0.3726988732814789,['Kevin'],['Kevin Smith'],,[],,,[]
+3147,710,It's got a little gore but its more psychological,284,chit-chat,0.15340588986873627,['gore'],['gore'],,[],,,[]
+3150,710,I've never seen it. @147204  is the only horror movie I will watch,312,recommend,0.3260437548160553,[],[],,"['Comedy', 'Horror']",2014,Tusk,"[""Tusk  (2014)""]"
+3152,710,Thanks! You too!,406,chit-chat,0.15806104242801666,[],[],,[],,,[]
